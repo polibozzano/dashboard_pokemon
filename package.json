@@ -2,7 +2,7 @@
   "name": "dashboard-pokemon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/polibozzano/dashboard_pokemon",
+  "homepage": "https://polibozzano.github.io/dashboard_pokemon/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
