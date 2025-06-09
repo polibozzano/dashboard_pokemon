@@ -7,6 +7,11 @@ Os dados são consumidos da [PokéAPI](https://pokeapi.co/).
 
 ---
 
+# Live Demo
+Acesse: https://dashboard-pokemon.vercel.app
+
+---
+
 ## 🔍 Funcionalidades
 
 - ✅ Listagem de Pokémons
